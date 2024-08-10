@@ -1,5 +1,4 @@
-# CICD using GitHub actions
-
+#Github devopsified
 name: CI/CD
 
 # Exclude the workflow to run on changes to the helm chart
